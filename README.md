@@ -95,7 +95,7 @@ AnimKit is a powerful animation toolkit for Unity that allows smooth and versati
 3. Import the AnimKit package into your Unity project.
 4. Start using AnimKit in your scripts and animations!
 
-For detailed usage instructions, documentation, and code examples, please refer to the [AnimKit Documentation](link-to-your-documentation).
+For detailed usage instructions, documentation, and code examples, please refer to the [AnimKit Documentation]([link-to-your-documentation](https://github.com/y1chu/AnimEase/blob/main/AnimKit%20Documentation.md)).
 
 ## Contributing
 
