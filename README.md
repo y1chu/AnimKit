@@ -103,4 +103,4 @@ Contributions to AnimKit are welcome! If you find any issues or have suggestions
 
 ## License
 
-This project is licensed under the [MIT License](link-to-your-license-file).
+This project is licensed under the [MIT License](https://github.com/y1chu/AnimEase/blob/main/LICENSE).
